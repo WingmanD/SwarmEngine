@@ -1,0 +1,22 @@
+[submodule "SwarmEngineOGL/dependencies/glm"]
+	path = SwarmEngineOGL/dependencies/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "SwarmEngineOGL/dependencies/assimp"]
+	path = SwarmEngineOGL/dependencies/assimp
+	url = https://github.com/assimp/assimp.git
+[submodule "SwarmEngineOGL/dependencies/glad"]
+	path = SwarmEngineOGL/dependencies/glad
+	url = https://github.com/Dav1dde/glad.git
+	branch = c
+[submodule "SwarmEngineOGL/dependencies/glfw"]
+	path = SwarmEngineOGL/dependencies/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "SwarmEngineOGL/dependencies/stb"]
+	path = SwarmEngineOGL/dependencies/stb
+	url = https://github.com/nothings/stb.git
+[submodule "SwarmEngineOGL/dependencies/imgui"]
+	path = SwarmEngineOGL/dependencies/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "SwarmEngineOGL/dependencies/tinyxml"]
+	path = SwarmEngineOGL/dependencies/tinyxml
+	url = https://github.com/leethomason/tinyxml2.git
